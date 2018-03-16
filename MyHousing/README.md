@@ -5,15 +5,15 @@ MyHousing is build on top of meanjs(meanjs.org) the propertyportal for TEAM proj
 
 ### Prerequisites ###
 
-* MongoDB 3.2
-ds155634.mlab.com:55634
-User:admin
-pass:admin
+* MongoDB 3.2  
+ds155634.mlab.com:55634  
+User:admin  
+pass:admin  
 
 
 # both version
-$ sudo apt-get update
-$ sudo apt-get install -y mongodb-org
+$ sudo apt-get update  
+$ sudo apt-get install -y mongodb-org  
 ```
 
 * Node.js 6.x LTS
