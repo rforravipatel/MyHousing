@@ -1,7 +1,4 @@
-# PropertyPortal
-Property Listing portal
-
-# MyHousing [![js-standard-style](https://meanjs.org/?style=flat)](https://github.com/rushabhshah341/MyHousing)
+# MyHousing [js-standard-style](https://meanjs.org/?style=flat)
 
 MyHousing is build on top of meanjs(meanjs.org) the propertyportal for TEAM project for Software Engineering Class.
 
